@@ -9,8 +9,16 @@ body {
     background-color: black;
     color: white;
     font-size: 20px;
+    position: fixed;
+    top: 0;
 }
 
 .test-text {
     margin-bottom: 50px;
+}
+
+.anchor-text {
+    margin-top: 50px;
+    color: red;
+    font-size: 20px;
 }
